@@ -27,4 +27,4 @@
 
 [LC0198 House Robber](../Problems/LC/LC0198.md)
 
-[LC0213 House Robber](../Problems/LC/LC0213.md)
+[LC0213 House Robber II](../Problems/LC/LC0213.md)
